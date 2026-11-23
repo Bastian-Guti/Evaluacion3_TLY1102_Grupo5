@@ -34,4 +34,4 @@ carga → EDA → preprocesamiento → construcción → entrenamiento → regul
 **Modelo recomendado: CNN optimizada** (lr 0,01, Dropout 0,3, L2 0,0001).
 
 ## Limitaciones
-Sin conjunto de prueba independiente (la misma validación elige y compara los modelos), solo 6 letras y sin metadatos de las personas.
+Sin conjunto de prueba independiente (la misma validación elige y compara los modelos), solo 6 letras.
