@@ -15,7 +15,7 @@ carga → EDA → preprocesamiento → construcción → entrenamiento → regul
 
 ## Cómo ejecutar
 1. Descargar el dataset desde [Kaggle – Sign Language MNIST](https://www.kaggle.com/datasets/datamunge/sign-language-mnist).
-2. Abrir el notebook en Colab: [Abrir en Colab](https://colab.research.google.com/github/USUARIO/REPO/blob/main/Evaluacion3_TLY1102_Grupo5_FINAL.ipynb)
+2. Abrir el notebook en Colab: [Abrir en Colab](https://colab.research.google.com/drive/1hkCLVZGTa_SkzHTNRudeU-Ouxl50BzCB)
 3. Activar GPU (*Entorno de ejecución → Cambiar tipo de entorno → GPU*) y subir `Sign Language MNIST.zip` al panel de archivos.
 4. *Entorno de ejecución → Ejecutar todas* (≈ 10–12 min, por el grid search).
 
